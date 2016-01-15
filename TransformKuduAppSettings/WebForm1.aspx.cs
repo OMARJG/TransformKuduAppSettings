@@ -11,7 +11,7 @@ namespace TransformKuduAppSettings
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            throw new ApplicationException("something1");
+            throw new ApplicationException("something after changing the path of config file");
         }
     }
 }
