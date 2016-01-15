@@ -11,7 +11,7 @@ namespace TransformKuduAppSettings
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            throw new ApplicationException("something after changing the path of config file");
+            throw new ApplicationException("now inside repo folder file");
         }
     }
 }
