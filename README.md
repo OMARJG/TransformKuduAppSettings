@@ -1,0 +1,2 @@
+# TransformKuduAppSettings
+TestTransformKuduAppSettings
